@@ -1,0 +1,6 @@
+Team contacts for the CodeAlpha project:
+Alice Johnson - alice.johnson@example.com
+Bob Smith <bob_smith@mail.example.org>, backup: BOB_SMITH@mail.example.org
+Support desk: support@codealpha.example
+Invalid entries: carol@, @nobody.com, dave at example dot com
+Reach Alice again at alice.johnson@example.com

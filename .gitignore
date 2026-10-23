@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+sorted_jpgs/
+emails.txt
+title.txt
